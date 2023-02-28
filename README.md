@@ -1,6 +1,8 @@
 # PowerBI-Projects
 
 ### <ins> Customer Feedback Analysis
+**Description :** In this project, I analysed customer feedback from Olist Store which is the largest department store in Brazilian marketplaces. The Brazilian eCommerce public dataset of orders (from 2016 to 2018) made at the Olist Store has been provided for analysis. I cleaned data by using **Power Query**, analysed and visualised the data by using **various charts**, **sentiment analysis with Python**.
+  
 <picture>
 <img src="https://user-images.githubusercontent.com/121382771/220598139-7839a2d3-5759-46e1-b928-d59c1b24a3f3.png" width="650" height="700">
 </picture>
