@@ -12,9 +12,20 @@
 **Power Bi  :** [.pbix](https://github.com/TugceCankurt/PowerBI-Projects/blob/main/Supplier%20Quality%20Analysis.pbix) <br>
 **Description :** In this project, I used Microsoft supplier quality analysis sample to understand who the best and worst suppliers are, with respect to quality and Identify which plants do a better job finding and rejecting defects, to minimize downtime. <br>
 
+ <picture>
+<img src="https://user-images.githubusercontent.com/121382771/221837852-a961d587-0c0f-4fbf-af9e-cb568f6d5946.png" width="800" height="600">
+</picture>
+  
+  
+
 ### <ins> Procurement Analysis
 **Power Bi  :** [.pbix](https://github.com/TugceCankurt/PowerBI-Projects/blob/main/Procurement%20Analysis.pbix) <br>
 **Description :** In this project, I used Microsoft procurement analysis sample to explore Who the top vendors are,What categories we spend the most on, Which vendors give us the highest discount and when  <br>
+  
+ <picture>
+<img src="https://user-images.githubusercontent.com/121382771/221837297-3c43ae05-38b7-49af-85ac-464f81e90c39.png" width="800" height="400">
+</picture>
+  
   
   
 
